@@ -1,4 +1,4 @@
-![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3687049)
+![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/SmokeySecGR.png" alt="SmokeySecGR TryHackMe" />)
 
 ## Notification Sender
 > You can make the script send you a message on Discord or Telegram to notify you about a new event on your selected platforms with your own interval.
